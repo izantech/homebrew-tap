@@ -1,8 +1,8 @@
 class Yup < Formula
   desc "Safe, cross-platform updater for development tools"
   homepage "https://github.com/izantech/yup"
-  url "https://github.com/izantech/yup/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "7a8a0b4edbfce31856d18036ccee1de170cdfb95da54c661fff68da1803135dd"
+  url "https://github.com/izantech/yup/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "149cdffbae9d979251bbb4114cd2e818978c65666ac14b9165dd7fd1e71bf72b"
   license "MIT"
   head "https://github.com/izantech/yup.git", branch: "main"
 
